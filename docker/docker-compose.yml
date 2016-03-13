@@ -1,0 +1,5 @@
+hello-spring-boot:
+  image: luisrpp/hello-spring-boot
+  command: java -jar target/hello-1.0.0-SNAPSHOT.jar
+  ports:
+    - 8080
