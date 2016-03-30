@@ -1,1 +1,1 @@
-docker build -t luisrpp/hello-spring-boot .
+docker build -t luisrpp/hello-service .
